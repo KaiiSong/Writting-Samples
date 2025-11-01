@@ -62,7 +62,7 @@ Each student was assigned an economist whose work contributes to **General Equil
 
 **Submitted:** November 2023  
 **Type:** Semi-independent work  
-**Supervisor:** [Professor Barry Croke]{https://maths.anu.edu.au/people/barry-croke}  
+**Supervisor:** [Professor Barry Croke](https://maths.anu.edu.au/people/barry-croke)
 
 #### **Description**
 
