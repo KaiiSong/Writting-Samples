@@ -14,7 +14,7 @@ Research School of Economics, Australian National University (ANU)
 ### **Optimal Intergenerational Sugar Tax: A Sufficient Statistics Approach**
 
 **Submitted:** 30 October 2025  
-**Supervisor:** Dr Ash Craig  
+**Supervisor:** [Dr Ash Craig](https://www.ashleycraig.com/)  
 
 #### **Elevator Pitch**
 
@@ -34,7 +34,7 @@ Using a sufficient-statistics framework, I estimate the optimal SSB tax and find
 ### **Decomposing the Gap: Tracing the Sources of Indigenous Income Inequality**
 
 **Submitted:** November 2024  
-**Supervisor:** Professor Bob Gregory  
+**Supervisor:** [Professor Bob Gregory](https://rse.anu.edu.au/about/staff-directory/professor-bob-gregory)  
 
 #### **Description**
 
@@ -42,7 +42,7 @@ This report investigates **Indigenous income inequality** in Australia using lim
 
 ---
 
-## Economics III (Honours) Coursework Essay
+## [Economics III (Honours) Coursework](https://programsandcourses.anu.edu.au/2023/course/ECON3100/Second%20Semester/7041) Essay
 
 ### **The Role of Money in Incomplete Markets**
 
@@ -62,7 +62,7 @@ Each student was assigned an economist whose work contributes to **General Equil
 
 **Submitted:** November 2023  
 **Type:** Semi-independent work  
-**Supervisor:** Professor Barry Croke  
+**Supervisor:** [Professor Barry Croke]{https://maths.anu.edu.au/people/barry-croke}  
 
 #### **Description**
 
@@ -73,4 +73,4 @@ The essay discusses the **mathematical foundations of SA**, the **structure of t
 ---
 
 *© Kai Song — Research School of Economics, ANU*  
-*Last updated: {{TODAY’S DATE}}*
+*Last updated: 1 Nov 2025*
