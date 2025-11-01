@@ -3,10 +3,10 @@
 This repository contains selected writing samples by **Kai Song**  
 Research School of Economics, Australian National University (ANU)
 
-> For other samples, please refer to the following links:  
+> For other samples and more about me:  
 > - [Google Drive Folder](https://drive.google.com/drive/folders/1O0mTofJqEktdejaBYjK0fCeBT9yOIU9f?usp=sharing)  
 > - [GitHub Repository](https://github.com/KaiiSong/Writting-Samples)
-
+> - [CV](https://drive.google.com/file/d/1HTnp-hiS3LWu8WCe7H5XDtg5icNM4QTw/view?usp=sharing)
 ---
 
 ## Honour Thesis
